@@ -1,0 +1,19 @@
+@import url(./__button/userInfo__button.css);
+@import url(./__input/userInfo__input.css);
+@import url(./__form/userInfo__form.css);
+@import url(./_not-visible/userInfo_not-visible.css);
+@import url(./__container/userInfo__container.css);
+
+
+@import url(./__title/userInfo__title.css);
+
+.userInfo {
+    margin: auto;
+    width: 430px;
+    min-height: 200px;
+    background-color: #fff;
+    border-radius: 10px;
+    position: relative;
+    box-sizing: border-box;
+    padding: 34px 36px; 
+}

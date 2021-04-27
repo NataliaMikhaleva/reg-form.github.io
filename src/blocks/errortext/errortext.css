@@ -1,0 +1,9 @@
+@import url(./_hidden/errortext_hidden.css);
+@import url(./_visible/texterror_visible.css);
+
+.errortext {
+    display: block;
+    margin-top: 10px;
+    /* margin-bottom: 20px; */
+    color: red;
+}

@@ -1,0 +1,15 @@
+.userInfo__button {
+   margin-top: 20px;
+   width: 50%;
+   height: 40px;
+   border-radius: 20px;
+   outline: none;
+   border: none;
+
+}
+
+.userInfo__button:active,
+.userInfo__button:hover,
+.userInfo__button:focus {
+outline: none;
+}

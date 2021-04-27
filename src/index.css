@@ -1,0 +1,14 @@
+@import url(./blocks/page/page.css);
+@import url(./blocks/userInfo/userInfo.css);
+@import url(./blocks/errortext/errortext.css);
+
+body {
+  
+    background-color: #000;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
