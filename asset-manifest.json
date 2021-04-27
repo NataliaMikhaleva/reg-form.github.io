@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reg-form.github.io/static/css/main.2190d64f.chunk.css",
+    "main.js": "/reg-form.github.io/static/js/main.8c39a8a0.chunk.js",
+    "main.js.map": "/reg-form.github.io/static/js/main.8c39a8a0.chunk.js.map",
+    "runtime-main.js": "/reg-form.github.io/static/js/runtime-main.a7a34753.js",
+    "runtime-main.js.map": "/reg-form.github.io/static/js/runtime-main.a7a34753.js.map",
+    "static/js/2.1aa6af14.chunk.js": "/reg-form.github.io/static/js/2.1aa6af14.chunk.js",
+    "static/js/2.1aa6af14.chunk.js.map": "/reg-form.github.io/static/js/2.1aa6af14.chunk.js.map",
+    "static/js/3.2df33dd2.chunk.js": "/reg-form.github.io/static/js/3.2df33dd2.chunk.js",
+    "static/js/3.2df33dd2.chunk.js.map": "/reg-form.github.io/static/js/3.2df33dd2.chunk.js.map",
+    "index.html": "/reg-form.github.io/index.html",
+    "static/css/main.2190d64f.chunk.css.map": "/reg-form.github.io/static/css/main.2190d64f.chunk.css.map",
+    "static/js/2.1aa6af14.chunk.js.LICENSE.txt": "/reg-form.github.io/static/js/2.1aa6af14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7a34753.js",
+    "static/js/2.1aa6af14.chunk.js",
+    "static/css/main.2190d64f.chunk.css",
+    "static/js/main.8c39a8a0.chunk.js"
+  ]
+}
